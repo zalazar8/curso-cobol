@@ -16,7 +16,7 @@
            02 SAMP PIC X(71).
        PROCEDURE DIVISION.
        PROCEDIMIENTO-PRINCIPAL.
-           MOVE '20' TO X1.
+           MOVE 20 TO X1.
            DISPLAY A.
            MOVE 'S' TO X1.
            DISPLAY A.
